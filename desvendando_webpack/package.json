@@ -20,6 +20,6 @@
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
     "core-js": "^3.6.5",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
